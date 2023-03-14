@@ -20,7 +20,7 @@ public class Example2 {
 //			}
 //		}
 	public void numberTable() {
-		for (int num = 0; num < 10; num++) {
+		for (int num = 2; num < 10; num++) {
 			System.out.println(num + "단");
 			for (int i = 1; i < 10; i++) {
 				System.out.println(num + " * " + " = " + (num * i));
